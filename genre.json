@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Genre 1",
+    "stories": [
+      {
+        "title": "Story 1-1",
+        "content": "Content of Story 1-1"
+      },
+      {
+        "title": "Story 1-2",
+        "content": "Content of Story 1-2"
+      }
+    ]
+  },
+  {
+    "name": "Genre 2",
+    "stories": [
+      {
+        "title": "Story 2-1",
+        "content": "Content of Story 2-1"
+      },
+      {
+        "title": "Story 2-2",
+        "content": "Content of Story 2-2"
+      }
+    ]
+  },
+  {
+    "name": "Genre 3",
+    "stories": [
+      {
+        "title": "Story 3-1",
+        "content": "Content of Story 3-1"
+      },
+      {
+        "title": "Story 3-2",
+        "content": "Content of Story 3-2"
+      }
+    ]
+  }
+]
